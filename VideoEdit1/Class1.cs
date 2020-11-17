@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Sony.Vegas;
 using System.Windows.Forms;
+// test comment
 namespace VideoEdit1
 {
     public class EntryPoint
